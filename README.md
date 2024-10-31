@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Blockchain & AI
 - 🌱 I’m currently learning ... AI, ML, ERP
 - 💞️ I’m looking to collaborate on ... Building AI Agents
-- 📫 How to reach me ... Linkdln
+- 📫 How to reach me ... [Linkedln](www.linkedin.com/in/umaairkhalid)
 - ⚡ Fun fact: ... Highschool Table tennis captain & University Tennis Captain
 
 <!---
